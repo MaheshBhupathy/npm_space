@@ -1,0 +1,27 @@
+{
+  "name": "npm_space",
+  "version": "1.0.0",
+  "description": "just a demo application for practicing npm",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshBhupathy/npm_space.git"
+  },
+  "keywords": [
+    "demo",
+    "practice"
+  ],
+  "author": "MAHESH BHUPATHY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshBhupathy/npm_space/issues"
+  },
+  "homepage": "https://github.com/MaheshBhupathy/npm_space#readme"
+}
